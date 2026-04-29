@@ -13,16 +13,31 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/appearance.json",
-                "bFile": ".obsidian/appearance.json",
+                "aFile": ".obsidian/plugins/obsidian-git/main.js",
+                "bFile": ".obsidian/plugins/obsidian-git/main.js",
                 "aRef": "HEAD",
                 "bRef": ""
               },
               "icon": "diff",
-              "title": "Diff: appearance.json  (Index)"
+              "title": "Diff: main.js  (Index)"
+            }
+          },
+          {
+            "id": "9b0a4687618bc1e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test Note"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Test Note"
             }
           },
           {
@@ -113,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Test Note"
             }
           },
           {
@@ -155,12 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Test Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Test Note"
             }
           },
           {
@@ -192,6 +210,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e35bc7b367d4388",
-  "lastOpenFiles": []
+  "active": "9b0a4687618bc1e4",
+  "lastOpenFiles": [
+    "Test Note.md",
+    "Untitled"
+  ]
 }
